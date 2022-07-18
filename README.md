@@ -5,7 +5,7 @@
 
 ---
 
-### 📩 DM us here: [@Zentoh](https://t.me/exnasmain) or join our group [here](https://t.me/CryptoDrainers) to follow updates!
+### 📩 DM us here: [@exnasmain](https://t.me/exnasmain) or join our group [here](https://t.me/exnas_sellix) to follow updates!
 
 ## ` 💎 Features `
 - [x] Inspect Element Detection
